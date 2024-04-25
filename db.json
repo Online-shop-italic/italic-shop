@@ -1,0 +1,36 @@
+{
+    "women": [
+        {
+            "id": 1,
+            "title": "Mila Cashmere Boxy Crop Sweater",
+            "details": "AN ANYTHING-BUT-BASIC CASHMERE PULLOVER.Once you go 100% cashmere, you don't go back. This impossibly soft crewneck has the flattering shape, thoughtful details, and quality construction to carry you from season to season.",
+            "price": "175$",
+            "img": "https://content.italic.com/95659258-36f6-4d77-ad45-91824c346973.jpeg?ixlib=react-9.8.0&q=80&w=1600&auto=format&fit=max",
+            "isFavorite": false
+        },
+        {
+            "id": 2,
+            "title": "Billie Chunky Knit Oversized Cashmere Cardigan",
+            "details": "COZY UP. Luxuriously soft and perfectly oversized, the Billie Cashmere Boyfriend Cardigan is crafted from premium Mongolian cashmere with a boxy, relaxed fit for effortless comfort.",
+            "price": "255$",
+            "img": "https://content.italic.com/681c50e6-3ad5-490e-8550-643783262239.jpeg?ixlib=react-9.8.0&q=80&w=1600&auto=format&fit=max",
+            "isFavorite": false
+        },
+        {
+            "id": 3,
+            "title": "Risa Cashmere-Wool Button Down Coat",
+            "details": "GRADE A CASHMERE. Italic uses ultra-fine Grade A cashmere harvested from Capra Hircus goats in Mongolia. Unlike lesser cashmere, ours won't lose its shape, softness, or fray.",
+            "price": "485$",
+            "img": "https://content.italic.com/0e954a44-a913-4fd1-aca6-8464fca0b1ce.jpeg?ixlib=react-9.8.0&q=80&w=1600&auto=format&fit=max",
+            "isFavorite": false
+        },
+        {
+            "id": 4,
+            "title": "Mila Cashmere Boxy Crop Sweater",
+            "details": "AN ANYTHING-BUT-BASIC CASHMERE PULLOVER. Once you go 100% cashmere, you don't go back. This impossibly soft crewneck has the flattering shape, thoughtful details, and quality construction to carry you from season to season.",
+            "price": "175$",
+            "img": "https://content.italic.com/fdef1bd6-1840-43bf-bb83-b66daba5c38f.jpeg?ixlib=react-9.8.0&q=80&w=1600&auto=format&fit=max",
+            "isFavorite": false
+        }
+    ]
+}
