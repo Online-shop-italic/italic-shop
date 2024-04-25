@@ -31,6 +31,54 @@
             "price": "175$",
             "img": "https://content.italic.com/fdef1bd6-1840-43bf-bb83-b66daba5c38f.jpeg?ixlib=react-9.8.0&q=80&w=1600&auto=format&fit=max",
             "isFavorite": false
+        },
+        {
+            "id": 5,
+            "title": "Sophia Cashmere Quarter Zip Pullover",
+            "details": "THE CASUAL PULLOVER MADE LUXE. Your everyday sweater just got zipped up a notch. Our highly-requested Sophia Cashmere Quarter-Zip Pullover is crafted from 100% Grade-A Mongolian cashmere for an effortlessly chic look.",
+            "price": "270$",
+            "img": "https://content.italic.com/016aaa0c-8b36-4a63-80b8-1c4eb4756dc7.jpeg?ixlib=react-9.8.0&q=80&w=1600&auto=format&fit=max",
+            "isFavorite": false
+        },
+        {
+            "id": 6,
+            "title": "Priscilla Silk Halter Mini Dress",
+            "details": "MODERN MINIMALISM WITH A FLIRTY TWIST. Skillfully designed to flatter your form, this silk mini dress is ready for cocktail hour, date night, and everything in-between. Fully lined and cut on the bias from heavyweight 22 momme silk, it’s a romantic silhouette that softly hugs and skims... ",
+            "price": "125$",
+            "img": "https://content.italic.com/403ada07-2593-407d-94b1-19993df1defa.jpeg?ixlib=react-9.8.0&q=80&w=1600&auto=format&fit=max",
+            "isFavorite": false
+        }, 
+        {
+            "id": 7,
+            "title": "Malone Silk Slip Dress",
+            "details": "MODERN MINIMALISM WITH A FLIRTY TWIST. Skillfully designed to flatter your form, this silk mini dress is ready for cocktail hour, date night, and everything in-between. Fully lined and cut on the bias from heavyweight 22 momme silk, it’s a romantic silhouette that softly hugs and skims... ",
+            "price": "85$",
+            "img": "https://content.italic.com/9c287db3-2510-470f-bdc3-27154d016e7d.jpeg?ixlib=react-9.8.0",
+            "isFavorite": false
+        },
+        {
+            "id": 8,
+            "title": "Lou Lightweight Lambskin Leather Jacket",
+            "details": "MADE FOR COMPLIMENTS. Everything’s better in leather. Transform any outfit into a real head-turner with our latest outerwear essential. A cross between our Niki Leather Moto Jacket and our Lexi Suede Leather Jacket — the Lou delivers on durability, details, and edge... ",
+            "price": "335$",
+            "img": "https://content.italic.com/a9376ffe-bc6c-4e3f-98c2-0778005464e5.jpeg?ixlib=react-9.8.0&q=80&w=1600&auto=format&fit=max",
+            "isFavorite": false
+        },
+        {
+            "id": 9,
+            "title": "Bella Lambskin Leather Boyfriend Blazer",
+            "details": "BETTER THAN THE BOYS. Created from buttery-soft lambskin, this menswear-inspired leather blazer effortlessly captures the “model off duty” look. A slightly oversized fit is on trend, while perfectly placed darts keep things flattering through the torso.",
+            "price": "460$",
+            "img": "https://content.italic.com/0bdde796-e659-4e8a-b5c2-1a535c88dd11.jpeg?ixlib=react-9.8.0&q=80&w=1600&auto=format&fit=max",
+            "isFavorite": false
+        },
+        {
+            "id": 10,
+            "title": "Eloise Featherlight Silk-Cashmere Knit Long Sleeve",
+            "details": "EVERYDAY SOPHISTICATION, RAIN OR SHINE. From sunny days to chilly weather, we've got you covered. Meet Eloise, a fine knit made from our luxurious blend of pure mulberry silk and Grade-A Mongolian cashmere. Light, breathable, and endlessly versatile, this knit can be worn on its own.",
+            "price": "145$",
+            "img": "https://content.italic.com/19c05010-44b8-409f-b915-addf72ae0431.jpeg?ixlib=react-9.8.0&q=80&w=1600&auto=format&fit=max",
+            "isFavorite": false
         }
     ]
 }
